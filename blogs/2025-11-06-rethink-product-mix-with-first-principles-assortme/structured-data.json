@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Rethink Product Mix with First Principles Assortment Design",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-01-10",
+  "keywords": "first principles assortment design, assortment planning strategy, SKU rationalization, retail product mix optimization, data-driven product selection, strategic assortment planning, retail innovation frameworks, category management best practices, inventory capital efficiency, customer-centric merchandising",
+  "articleSection": "Retail Strategy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "First Principles Thinking in Retail"
+    },
+    {
+      "@type": "Thing",
+      "name": "Assortment Planning Optimization"
+    },
+    {
+      "@type": "Thing",
+      "name": "SKU Rationalization"
+    },
+    {
+      "@type": "Thing",
+      "name": "Customer-Centric Merchandising"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Product Mix Strategy"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, merchandising directors, category managers, retail strategists"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/rethink-product-mix-with-first-principles-assortment-design/"
+}
+```
