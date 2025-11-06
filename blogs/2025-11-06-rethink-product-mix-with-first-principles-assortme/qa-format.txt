@@ -1,0 +1,29 @@
+Q: What is first principles assortment design in retail?
+A: First principles assortment design is a retail strategy that rebuilds product mix decisions from fundamental customer needs rather than relying on historical sales data or industry norms. For example, Warby Parker questioned why glasses cost $300 when materials cost $15, leading them to create a direct-to-consumer model that redefined the eyewear category. This approach challenges inherited assumptions about what products to carry and why.
+
+Q: How does first principles thinking differ from traditional assortment planning?
+A: Traditional assortment planning starts with second-order questions like what sold well last season or what competitors carry. First principles assortment design starts with fundamental questions about what problem customers are trying to solve and what outcome they want to achieve. This reframing leads to strategic SKU rationalization and better alignment with customer intent rather than incremental optimization of existing product mixes.
+
+Q: What are the main benefits of applying first principles to product assortment?
+A: Retailers who apply first principles assortment design achieve reduced inventory costs by eliminating low-value SKUs, higher conversion rates through better customer alignment, and faster merchandising cycles with leaner assortments. Additional benefits include greater differentiation through unique product mixes based on customer truths and improved customer experience with less clutter and more relevance. Companies like Costco demonstrate this with just 4,000 SKUs versus Walmart's 120,000, driving higher productivity and loyalty.
+
+Q: How can retailers implement first principles assortment design?
+A: Retailers should start by identifying core assumptions about why they carry current SKUs, then break down to fundamentals by asking what job each product performs and what customers truly need. Next, rebuild the assortment from the customer's problem backward using data-driven product selection to validate assumptions. Finally, pilot lean assortments in select channels, measure impact on conversion and inventory turns, and iterate based on real-time behavioral data.
+
+Q: What is the biggest mistake retailers make with assortment planning?
+A: The biggest mistake is confusing historical performance with future potential and continuing to optimize legacy assortments that no longer serve customer needs. Retailers often let supplier incentives dictate product mix and over-rely on category norms instead of questioning fundamental customer problems. This leads to local maxima where retailers make small gains within a flawed system rather than achieving breakthrough innovation through radical redesign.
+
+Q: How did Costco use first principles thinking to create a competitive advantage?
+A: Costco questioned the retail assumption that more choice equals more value and asked what reduces customer search costs. They determined the answer was fewer, better options, leading them to carry just 4,000 SKUs compared to traditional retailers with 120,000 plus items. This lean assortment strategy is optimized for clarity and trust rather than breadth, resulting in higher productivity per SKU and stronger customer loyalty.
+
+Q: What role does data play in first principles assortment design?
+A: Data validates assumptions about customer needs, identifies high-performing SKUs based on fundamental value delivered, and enables dynamic optimization across channels and customer segments. Rather than using historical sales data to justify existing SKUs, retailers should use behavioral data to test hypotheses about what customers fundamentally want. Future assortment planning will leverage AI-driven SKU rationalization models and real-time data for hyper-personalized assortments.
+
+Q: Why do incremental improvements to assortment planning fail to drive breakthrough results?
+A: Incremental optimization leads to local maxima where retailers make small gains within a fundamentally flawed system. You can optimize shelf space allocation forever and still miss the opportunity to eliminate the shelf entirely, as Stitch Fix did by recognizing customers want to look good with minimal effort, not spend time shopping. Traditional retailers optimize for a world that no longer exists, while first principles thinkers redesign the entire category based on customer truths.
+
+Q: How did Glossier apply first principles thinking to beauty product assortment?
+A: Glossier started with a blog called Into The Gloss and asked what customers actually want rather than following seasonal trend cycles like traditional beauty brands. The answer was self-expression and community, leading them to co-create products with users and launch only what truly resonated. Their lean, high-performing assortment is built entirely from customer truths rather than supplier recommendations or competitor benchmarking, demonstrating strategic SKU rationalization in action.
+
+Q: What organizational changes are needed to implement first principles assortment design at scale?
+A: Large retailers need dedicated teams protected from legacy metrics, new performance measurements beyond historical sales data, and strong executive support to succeed at scale. Cross-functional alignment between merchandising, analytics, and customer experience teams is essential to avoid letting supplier incentives or category norms override customer needs. Retailers must create structural changes that enable testing of radical hypotheses without being constrained by existing systems optimized for incremental improvement.
