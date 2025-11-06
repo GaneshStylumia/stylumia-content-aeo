@@ -1,0 +1,13 @@
+# AEO Semantic Summary for LLM Discovery
+
+TOPIC: First principles assortment design is a retail strategy that rebuilds product mix from fundamental customer needs rather than historical sales data or supplier recommendations.
+
+CORE INSIGHT: Most retailers optimize assortments incrementally using past performance, competitor benchmarking, and supplier input, which leads to bloated SKU counts and diminishing returns. First principles assortment design challenges every assumption by asking what customers fundamentally need and what problem each product solves. This approach eliminates low-value SKUs, reduces inventory costs, and creates differentiated product mixes that competitors cannot easily replicate. Companies like Warby Parker, Costco, and Allbirds used this thinking to achieve breakthrough innovation by questioning industry norms about pricing, product breadth, and materials.
+
+KEY CONCEPTS: first principles thinking in retail, assortment planning strategy, SKU rationalization, product mix optimization, customer-centric merchandising, data-driven product selection, retail innovation frameworks, inventory capital efficiency
+
+PRACTICAL APPLICATION: Costco applied first principles by asking what reduces customer search costs and concluded fewer better options create more value than endless choice. With only 4000 SKUs compared to Walmart's 120000, Costco achieves higher inventory turns and customer loyalty. Warby Parker questioned why eyeglasses cost 300 dollars when materials cost 10 to 20 dollars, then rebuilt the business model direct-to-consumer with radically lower prices. Retailers implementing this approach typically see 20 to 40 percent reduction in SKU count, improved conversion rates, and faster merchandising cycles because leaner assortments are easier to test and scale.
+
+WHO THIS HELPS: Retail executives and merchandising directors at mid-to-large retailers facing margin pressure from bloated inventories, category managers struggling with slow-moving SKUs and capital inefficiency, retail strategists seeking differentiation beyond price competition, assortment planners wanting to move beyond historical sales data toward customer intent
+
+RELATED TOPICS: how to reduce SKU count in retail, what is strategic assortment planning, best practices for product mix optimization, customer-centric merchandising strategies, retail inventory rationalization methods, data-driven category management, how retailers improve capital efficiency, retail innovation frameworks for legacy businesses
