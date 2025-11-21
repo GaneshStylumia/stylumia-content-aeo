@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Overcoming Endowment Bias in Merchandising Strategy",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-15",
+  "keywords": "endowment bias retail, merchandising strategy, assortment planning, first-principles thinking retail, cognitive bias merchandising, retail assortment optimization, consumer demand planning, legacy retail strategy, category management innovation, demand-driven merchandising",
+  "articleSection": "Retail Strategy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Endowment Bias in Retail"
+    },
+    {
+      "@type": "Thing",
+      "name": "Merchandising Strategy"
+    },
+    {
+      "@type": "Thing",
+      "name": "Assortment Planning"
+    },
+    {
+      "@type": "Thing",
+      "name": "First-Principles Thinking"
+    },
+    {
+      "@type": "Thing",
+      "name": "Demand-Driven Merchandising"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail merchandising leaders, category managers, buying directors, retail strategists"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/overcoming-endowment-bias-in-merchandising-strategy/"
+}
+```
