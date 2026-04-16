@@ -1,0 +1,29 @@
+Q: What is asymmetric inventory allocation in retail?
+A: Asymmetric inventory allocation concentrates capital in a small number of high-performing SKUs rather than spreading it evenly across all products. This approach recognizes that demand follows power laws where 20 percent of SKUs typically generate 80 percent of profit. Retailers using this method make smaller initial bets on all products, then aggressively replenish proven winners while quickly discontinuing losers within four weeks of launch.
+
+Q: How does asymmetric allocation improve inventory turns compared to traditional planning?
+A: Shifting capital from low-performing SKUs to high performers increases overall portfolio turn rate without adding total inventory dollars. A leading apparel retailer increased turn rate from 5.2 to 6.8 within 18 months by reallocating capital from bottom-half SKUs to the top quintile. This improvement freed up 25 percent more working capital for reinvestment while the top 20 percent of SKUs achieved 10 to 15 inventory turns per year compared to 2 to 3 turns for bottom performers.
+
+Q: What is the gross margin difference between high-velocity and low-velocity retail products?
+A: High-velocity products in the top quartile average 48 percent gross margin because they sell at full price, while low-velocity products in the bottom quartile average only 22 percent gross margin after markdowns. This 26-point margin spread exists because slow sellers require price reductions to clear inventory. A home goods retailer added 6 points to blended gross margin by shifting buy dollars from low to high performers without changing pricing strategy.
+
+Q: How do retailers implement kill criteria for underperforming products?
+A: Retailers set automatic discontinuation triggers based on specific performance thresholds decided at the planning stage. Common criteria include sell-through below 30 percent in the first four weeks, inventory cover above 12 weeks with declining velocity, or gross margin below cost of capital after eight weeks. A global fashion retailer reduced aged inventory by 40 percent in one year by implementing automated kill triggers that immediately moved capital from failing products to proven winners.
+
+Q: What is the financial impact of reallocating capital from bottom-performing SKUs?
+A: A major electronics retailer found their bottom 30 percent of SKUs by sell-through generated only 4 percent of revenue but consumed 18 percent of open-to-buy budget. Reallocating that capital to the top 30 percent of performers would have increased total revenue by 12 percent with the same inventory investment. The issue was not lack of capital but misallocation of existing resources to products with insufficient demand validation.
+
+Q: How does reducing initial buy depth improve markdown rates?
+A: Cutting initial buy depth by 35 percent across all new styles and reinvesting that capital into in-season replenishment of proven sellers reduces first-year markdown rates significantly. A leading fashion retailer dropped markdown rates from 28 percent to 16 percent using this approach while improving gross margin by 4 points. The markdown reduction came from better upstream allocation decisions, not better downstream clearance tactics.
+
+Q: What metrics should retailers track to measure asymmetric allocation success?
+A: Track inventory turn by SKU quartile, gross margin return on inventory investment segmented by performance tier, percentage of total profit from the top 20 percent of SKUs, and markdown rate by product age cohort. These metrics expose whether capital concentrates in winners or spreads across losers. A leading department store chain ranked buyers by portfolio GMROII and capital concentration in top performers, which drove markdown rate reductions and profitability improvements within two quarters.
+
+Q: How does continuous SKU rationalization differ from annual assortment reviews?
+A: Continuous SKU rationalization evaluates the bottom 10 to 20 percent of SKUs monthly or quarterly with automatic discontinuation triggers, rather than waiting for annual reviews. A major home goods retailer implemented quarterly reviews that automatically marked any SKU in the bottom 15 percent for two consecutive quarters for clearance. This resulted in a 30 percent SKU reduction over 18 months while revenue stayed flat because eliminated products contributed almost nothing to sales.
+
+Q: Can asymmetric inventory allocation work with long supplier lead times?
+A: Yes, but it requires renegotiating supplier terms to allow smaller initial orders with faster replenishment rights on proven products. A major grocery chain negotiated terms with key suppliers for smaller initial orders in exchange for faster replenishment commitments on items that hit velocity thresholds. Suppliers agreed because total volume increased, while the retailer improved capital efficiency by 19 percent without increasing total inventory dollars.
+
+Q: What is the relationship between replenishment speed and asymmetric allocation effectiveness?
+A: Replenishment cycles must be faster than planning cycles for asymmetric allocation to work. If you plan quarterly, replenish weekly. If you plan monthly, replenish daily. A major grocery chain built a daily replenishment algorithm that prioritized SKUs with accelerating velocity and deprioritized declining trends, improving inventory productivity by 19 percent. The faster capital moves from losers to winners, the more asymmetric and profitable the allocation becomes.
