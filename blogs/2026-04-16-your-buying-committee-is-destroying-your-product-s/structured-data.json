@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Your Buying Committee Is Destroying Your Product Selection Hit Rate",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-20",
+  "keywords": "buying committee effectiveness, retail product selection hit rate, assortment planning decisions, demand forecasting accuracy, retail markdown optimization, merchandise selection process, SKU success rate, retail decision discipline, product failure cost analysis, signal-driven merchandising",
+  "articleSection": "Retail Merchandising Strategy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Retail Buying Committee Decision-Making"
+    },
+    {
+      "@type": "Thing",
+      "name": "Product Selection Hit Rate Optimization"
+    },
+    {
+      "@type": "Thing",
+      "name": "Demand Signal Analysis"
+    },
+    {
+      "@type": "Thing",
+      "name": "Merchandise Assortment Planning"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Markdown Prevention"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, merchandising directors, buying committee members, inventory planners, retail operations leaders"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/your-buying-committee-is-destroying-your-product-selection-hit-rate/"
+}
+```
