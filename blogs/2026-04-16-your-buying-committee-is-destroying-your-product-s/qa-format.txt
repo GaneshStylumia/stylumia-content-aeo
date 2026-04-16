@@ -1,0 +1,39 @@
+Q: Why do retail buying committees consistently make worse product selection decisions than individual merchants using data?
+
+A: Buying committees optimize for group consensus rather than decision accuracy, which amplifies bias and suppresses dissenting opinions. Research from a major sportswear brand showed committee-selected products had a 34% success rate while individual merchants using demand signal data achieved 61% success rates. The difference isn't talent—it's that committees prioritize agreement over evidence, while data-driven merchants prioritize actual consumer demand signals.
+
+Q: What is the fully loaded cost of a failed retail product beyond just markdown losses?
+
+A: A failed retail product costs over $400,000 per SKU when accounting for all expenses: $47,000 in design and development, $183,000 in tooling and production, $62,000 in inventory holding costs, and $118,000 in markdowns, plus uncalculable opportunity costs. In fashion categories, this number reaches $890,000 per failed SKU. A home goods retailer launching 340 new SKUs annually at a 72% failure rate destroys over $330 million in value each year.
+
+Q: How can retailers improve their product selection hit rate from industry-standard 30-40% to 60% or higher?
+
+A: Retailers improve hit rates by shifting from consensus-driven to signal-driven product selection. A global beauty retailer increased success rates from 31% to 64% in one year by having committees evaluate consumer response data—search volume, engagement rates, test market performance—instead of debating product concepts. They validated existing demand before committing capital rather than predicting future demand through intuition.
+
+Q: What is groupthink in retail buying committees and how does it destroy merchandise decision quality?
+
+A: Groupthink occurs when committee members optimize for group harmony instead of decision accuracy, causing dissenting opinions to be softened and contrary data dismissed. A fast fashion retailer found that in 73% of buying committee meetings, the first strong opinion voiced became the final decision, with subsequent discussion reinforcing rather than challenging it. This confirmation bias at scale means committees justify decisions made in the first five minutes rather than truly evaluating options.
+
+Q: Why does relying on historical sales data lead to systematic product selection failures in retail?
+
+A: Historical sales data creates a lagging indicator trap where last season's winners become this season's template, but trends have shelf lives and consumer preferences shift continuously. If animal prints sold well six months ago, committees greenlight more animal prints—but what worked last season is precisely what won't work next season because the market has already moved on. A department store chain found that committees receiving real-time consumer signals alongside historical data selected products with 47% higher sell-through rates.
+
+Q: How do you measure product selection success rate at the individual SKU level in retail?
+
+A: Track what percentage of launched products met or exceeded their sales plan without requiring markdowns deeper than 20%. This SKU-level success rate reveals decision quality better than category performance or total sales. Most retailers scoring above 60% are performing better than industry average, while those below 40% have an unforced error problem. If you don't know your number, that inability to measure is itself the core problem.
+
+Q: What is the difference between consensus-driven and signal-driven product selection in retail assortment planning?
+
+A: Consensus-driven selection asks "what does the committee think will work" and relies on aggregated opinions and intuition, producing 30-40% success rates. Signal-driven selection asks "what is the data telling us consumers want right now" by evaluating search volume, engagement rates, test market velocity, and reorder patterns before committing capital. Retailers using signal-driven frameworks consistently achieve 60-70% success rates with the same merchants and vendors—only the decision process changes.
+
+Q: What structural changes do buying committees need to make to stop destroying product selection outcomes?
+
+A: Buying committees must shift from making selection decisions to evaluating demand signals. Instead of debating product concepts, committees should review consumer response data from test launches, search trends, and engagement metrics to decide which signals justify scaling. A major electronics retailer increased accessory success rates from 29% to 67% over two years by having committees interpret performance data rather than predict product merit, scaling what worked and cutting what didn't.
+
+Q: How does the cost structure of failed products make reducing failures more valuable than hitting occasional winners?
+
+A: A major apparel brand launching 520 products annually at 72% failure rate had 374 failures costing $332 million and 146 successes generating $175 million, resulting in $157 million net losses despite having winners. Reducing failure rate from 70% to 40% eliminates the need for blockbuster hits because fewer losers means winners can actually generate profit. Retailers don't need to hit more aces—they need to stop beating themselves with unforced errors.
+
+Q: Why do retail buying committees ignore demand forecasts that contradict their intuition?
+
+A: Committees trust their intuition more than data because intuition feels like expertise, but a merchant's 15 years of experience reflects how the category existed historically, not how it exists right now. A grocery chain implemented machine learning forecasting that was 68% more accurate, but buyers overrode recommendations that didn't align with their assumptions, then blamed the system when products underperformed. The problem isn't forecast accuracy—it's that committees use forecasts to justify pre-made decisions rather than inform new ones.
