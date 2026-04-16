@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stop Optimizing Retail : Rebuild It From Fundamental Truths",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-01-14",
+  "keywords": "first principles retail strategy, retail business model innovation, Amazon retail disruption analysis, inventory optimization limitations, showroom retail model, retail strategic transformation, questioning retail assumptions, retail capital efficiency, marketplace vs inventory ownership, fundamental retail rethinking",
+  "articleSection": "Retail Strategy",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "First Principles Thinking in Retail"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Business Model Innovation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Inventory Ownership vs Marketplace Models"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Strategic Transformation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Capital Efficiency in Retail"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, strategy leaders, private equity investors, business transformation consultants, MBA-level strategists"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/stop-optimizing-retail-rebuild-it-from-fundamental-truths/"
+}
+```
