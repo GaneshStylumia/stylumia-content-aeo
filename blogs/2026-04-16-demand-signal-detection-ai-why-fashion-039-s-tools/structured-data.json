@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "DEMAND SIGNAL DETECTION AI: WHY FASHION'S TOOLS MEASURE NOISE",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-20",
+  "keywords": "demand signal detection AI, commercial intent analysis retail, AI demand forecasting fashion, predictive analytics markdown reduction, retail inventory optimization AI, fashion trend prediction accuracy, intent-weighted data hierarchies, full-price sell-through AI, signal versus noise retail data, fashion AI implementation framework",
+  "articleSection": "Retail AI and Demand Forecasting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Demand Signal Detection"
+    },
+    {
+      "@type": "Thing",
+      "name": "Commercial Intent Analysis"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Markdown Reduction"
+    },
+    {
+      "@type": "Thing",
+      "name": "Fashion AI Implementation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Predictive Inventory Optimization"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, merchandising directors, inventory planners, data science leaders, e-commerce managers"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/demand-signal-detection-ai-why-fashions-tools-measure-noise/"
+}
+```
