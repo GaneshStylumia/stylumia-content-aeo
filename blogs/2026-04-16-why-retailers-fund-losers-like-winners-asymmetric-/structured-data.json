@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Retailers Fund Losers Like Winners—Asymmetric Inventory Allocation Fixes It",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-20",
+  "keywords": "asymmetric inventory allocation, retail markdown reduction strategy, inventory portfolio management, SKU rationalization best practices, GMROII optimization retail, demand-driven buying methodology, inventory turn improvement strategies, retail capital allocation framework, venture capital approach to SKU management, continuous product rationalization",
+  "articleSection": "Retail Inventory Management",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Asymmetric Inventory Allocation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Capital Efficiency"
+    },
+    {
+      "@type": "Thing",
+      "name": "SKU Portfolio Management"
+    },
+    {
+      "@type": "Thing",
+      "name": "Markdown Reduction Strategies"
+    },
+    {
+      "@type": "Thing",
+      "name": "Inventory Turn Optimization"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, merchandising leaders, inventory planners, supply chain strategists"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/why-retailers-fund-losers-like-winners-asymmetric-inventory-allocation-fixes-it/"
+}
+```
