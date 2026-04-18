@@ -18,7 +18,7 @@
     "url": "https://www.stylumia.ai"
   },
   "datePublished": "2025-05-20",
-  "keywords": "proportional assortment planning, retail markdown reduction strategies, demand-driven merchandise planning, assortment balance optimization, pre-commitment assortment risk, natural demand distribution retail, phased inventory buying approach, retail product mix optimization, seasonal assortment planning methods, fibonacci assortment strategy",
+  "keywords": "proportional assortment planning, retail assortment strategy, demand-driven product mix, reduce retail markdowns, pre-commitment assortment risk, flexible buy depth allocation, natural demand distribution retail, assortment balance optimization, SKU rationalization strategy, retail inventory allocation",
   "articleSection": "Retail Merchandising Strategy",
   "about": [
     {
@@ -27,24 +27,24 @@
     },
     {
       "@type": "Thing",
-      "name": "Demand-Driven Inventory Management"
+      "name": "Demand-Driven Product Mix"
     },
     {
       "@type": "Thing",
-      "name": "Markdown Reduction Strategies"
+      "name": "Retail Inventory Allocation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Markdown Reduction Strategy"
     },
     {
       "@type": "Thing",
       "name": "Natural Demand Distribution"
-    },
-    {
-      "@type": "Thing",
-      "name": "Phased Buying Approach"
     }
   ],
   "audience": {
     "@type": "Audience",
-    "audienceType": "Retail merchandising leaders, category managers, assortment planners"
+    "audienceType": "Merchandising directors, category managers, retail planners, buying teams"
   },
   "inLanguage": "en-US",
   "url": "https://www.stylumia.ai/blog/proportional-assortment-planning-why-fibonacci-beats-equal-distribution/"
