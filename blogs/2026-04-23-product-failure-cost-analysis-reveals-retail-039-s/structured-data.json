@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Product Failure Cost Analysis Reveals Retail's Hidden $300B Tax",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-20",
+  "keywords": "product failure cost analysis, total system cost retail, retail markdown prevention, design stage cost control, supplier minimum waste, evidence based product selection, retail opportunity cost, assortment planning optimization, pre-launch product validation, retail capital allocation efficiency",
+  "articleSection": "Retail Operations",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Product Failure Cost Analysis"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Capital Allocation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Assortment Planning Optimization"
+    },
+    {
+      "@type": "Thing",
+      "name": "Pre-Launch Product Validation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Total System Cost Management"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Retail executives, merchandising leaders, product development teams, finance directors"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/product-failure-cost-analysis-reveals-retails-hidden-300b-tax/"
+}
+```
