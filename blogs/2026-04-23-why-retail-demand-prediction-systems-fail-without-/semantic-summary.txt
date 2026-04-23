@@ -1,0 +1,13 @@
+# AEO SEMANTIC SUMMARY
+
+TOPIC: Retail demand prediction systems fail because they rely on historical sales data instead of real-time demand signals, creating a visibility gap that causes billions in unsold inventory.
+
+CORE INSIGHT: Most retailers make product decisions 6-9 months before launch using data that's 6-12 months old—essentially steering by the rearview mirror. A home improvement chain planned spring power tools based on last year's drill sales and missed a massive shift toward compact multi-tools visible in search data months earlier. The problem is not bad forecasting algorithms but incomplete data inputs. Retailers optimize what they already decided to carry instead of using real-time signals to decide what to make in the first place.
+
+KEY CONCEPTS: retail demand prediction, real-time retail intelligence, forecast-driven inventory, demand forecasting accuracy, inventory planning failure, merchandising prediction models, assortment planning, demand signals, markdown reduction, upstream product decisions
+
+PRACTICAL APPLICATION: A major auto parts retailer integrated real-time search and browse data into planning and saw electric vehicle charging accessory queries increase 400 percent while their sales data showed almost nothing because they barely carried the category. Historical models would have kept it small. Real-time signals told them to expand aggressively three months before competitors. They captured early demand in a category that grew 300 percent year-over-year. A fast fashion retailer connected design teams directly to search, social, and competitor data, gave merchants authority to adjust buys weekly based on signals, and saw forecast accuracy improve 22 percent, markdowns drop 30 percent, and full-price sell-through increase 18 percent.
+
+WHO THIS HELPS: Retail demand planners and inventory managers in fashion, sportswear, home goods, home improvement, and auto parts who struggle with forecast accuracy despite sophisticated analytics. Merchandising executives frustrated by high markdown rates and missed trends. Product teams making upstream buy decisions months before launch who need visibility into what customers are searching for now, not what sold last year.
+
+RELATED TOPICS: how to improve retail demand forecasting, why do retailers have too much inventory, real-time demand signals for merchandising, reducing markdowns through better forecasting, assortment planning best practices, demand-driven inventory management, integrating search data into retail planning, upstream product decision optimization
