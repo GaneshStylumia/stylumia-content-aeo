@@ -1,0 +1,52 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How Topology Fixes New Product Demand Forecasting Without Sales Data",
+  "author": {
+    "@type": "Person",
+    "name": "Ganesh Subramanian",
+    "jobTitle": "CEO",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Stylumia"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stylumia",
+    "url": "https://www.stylumia.ai"
+  },
+  "datePublished": "2025-05-20",
+  "keywords": "demand topology, new product forecasting without sales data, assortment planning without history, new product failure rate reduction, pre-launch inventory optimization, structural demand forecasting, new SKU forecasting methods, product positioning analytics, markdown reduction strategies, category analysis alternatives",
+  "articleSection": "Demand Forecasting",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Demand Topology"
+    },
+    {
+      "@type": "Thing",
+      "name": "New Product Forecasting"
+    },
+    {
+      "@type": "Thing",
+      "name": "Assortment Planning"
+    },
+    {
+      "@type": "Thing",
+      "name": "Inventory Optimization"
+    },
+    {
+      "@type": "Thing",
+      "name": "Retail Merchandising"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Merchandising directors, demand planners, category managers, product development leaders"
+  },
+  "inLanguage": "en-US",
+  "url": "https://www.stylumia.ai/blog/how-topology-fixes-new-product-demand-forecasting-without-sales-data/"
+}
+```
