@@ -1,0 +1,29 @@
+Q: Why do traditional demand forecasting models fail when markets structurally shift?
+A: Traditional time series models assume the process generating demand stays fundamentally the same over time, which breaks completely when markets jump between behavioral regimes. For example, when athleisure replaced workwear in specific markets within 18 months, time series models kept projecting the old pattern and interpreted the regime change as forecast error, resulting in millions in inventory misalignment.
+
+Q: What is the difference between Markov chain forecasting and time series forecasting for retail demand?
+A: Time series forecasting asks what number comes next in a sequence and assumes continuity, while Markov chain forecasting asks what behavioral state the market is currently in and expects discrete jumps between regimes. Markov models detect when observed demand becomes more consistent with a new state and switch immediately, whereas time series models adjust incrementally and lag behind regime changes by weeks or months.
+
+Q: How do consumer behavior shifts differ from demand trends in ways that affect forecasting?
+A: Consumer behavior shifts are discrete state changes, not gradual trends. A shopper does not slowly become more price sensitive but switches from one decision mode to another based on triggers like life changes or market events. When enough individuals jump from state A to state B within a compressed timeframe, aggregate demand jumps too rather than trending smoothly, breaking models built for continuity.
+
+Q: When does historical sales data become misleading for demand forecasting in retail?
+A: Historical data becomes a liability when the demand regime changes because it represents rules that no longer apply. During the shift to electric vehicles, auto parts retailers found decades of historical data on engine component demand was worse than useless because it anchored forecasts to a regime being actively replaced, causing models to keep projecting demand for parts that EVs do not need.
+
+Q: How can retailers detect demand pattern changes versus normal forecast errors?
+A: Demand pattern changes are structural shifts in the generating process itself, while forecast errors are deviations caused by noise. Markov models detect pattern changes by calculating whether observed data is more consistent with the current state or a transition to a different state, flagging regime changes when transition probability exceeds a threshold rather than treating structural shifts as noise to smooth over.
+
+Q: What forecasting approach works best for categories where demand can shift faster than product lead times?
+A: State based forecasting works best for fashion, sports, home goods, home improvement, and auto parts where consumer preferences jump between regimes rather than trending smoothly. Instead of single point forecasts, Markov models produce probability distributions over possible future states, allowing retailers to build product portfolios that perform acceptably across the range of states the market might be in.
+
+Q: How do retailers make better product decisions when demand states can change before products reach market?
+A: Retailers should optimize assortments for probability weighted sets of possible demand regimes rather than single forecasts. A fashion retailer using this approach modeled markets as potentially transitioning between minimalist, maximalist, nostalgic, and futuristic style regimes, allocating product bets according to the probability distribution so the collection performed across multiple scenarios instead of being overcommitted to one state that might not materialize.
+
+Q: Why do time series models perform well in stable markets but fail in dynamic retail categories?
+A: Time series models encode continuity as a core assumption, which works when behavioral states remain constant but fails when states themselves change. They are blind to regime changes because they cannot detect structural breaks in real time as they occur, only seeing divergence from predictions as forecast error to correct incrementally rather than recognizing the market has jumped to a different room with different rules.
+
+Q: What is state based forecasting and how does it handle market uncertainty differently than traditional models?
+A: State based forecasting treats markets as moving through discrete behavioral regimes, each with different demand characteristics and transition probabilities to other states. Instead of pretending to know which state the market will be in, it produces probability distributions over possible future states and their demand implications, enabling structured decision making under regime uncertainty rather than false precision based on continuity assumptions.
+
+Q: How did demand forecasting structural shifts impact home improvement retailers during the remote work transition?
+A: When remote work shifted consumers from deferring home improvement to professionals into a state where DIY became an immediate personal priority, demand for mid tier power tools did not trend upward but jumped to a different behavioral regime. Time series models projected a continued upward trend and missed that the new state had different purchase frequencies, product mix preferences, and sensitivity to online content, resulting in forecast misalignment when the regime eventually shifted again.
