@@ -1,0 +1,29 @@
+Q: What is Kelly's Criterion and how does it apply to retail inventory management?
+A: Kelly's Criterion is a mathematical formula from the 1950s that determines optimal bet sizing to maximize long-term wealth without risking ruin. In retail, your inventory budget is your bankroll and each SKU is a bet. The formula helps retailers size inventory commitments proportionally to demand signal strength rather than spreading capital evenly across all products, preventing both catastrophic overbetting on uncertain products and conservative underbetting on proven winners.
+
+Q: How do retailers typically fail at capital allocation for inventory purchases?
+A: Most retailers commit the same inventory depth to proven bestsellers and untested line extensions, allocating capital to meet supplier minimums regardless of demand evidence. They size bets to fill shelf space or hit category plans rather than match signal strength. This approach is equivalent to betting your entire bankroll on a coin flip because the casino requires a minimum wager, eventually leading to catastrophic losses when multiple products fail simultaneously.
+
+Q: What is a four-tier capital allocation system for retail merchandise planning?
+A: A four-tier system groups products by demand signal strength and funds them proportionally. Tier one products with validated demand get 40-50% of capital. Tier two products with emerging signals get 20-30%. Tier three products with weak signals get 10-15%. Tier four products with no demand signal get under 5%, just enough to meet contractual obligations. One sportswear brand using this approach reduced markdowns by 22% and improved full-price sell-through by 19% within two seasons.
+
+Q: How can fractional betting on uncertain products improve retail profitability?
+A: Fractional betting means committing smaller initial quantities to products with uncertain demand, then reordering if they sell through quickly. A home improvement chain reduced initial orders on new drill models from 10,000 units to 3,000 units based on pre-launch signals. This approach dropped markdown dollars by 27% and increased inventory turns by 18% because the chain avoided deep discounts on failures while preserving capital to double down on winners.
+
+Q: What demand signals are strong enough to justify larger inventory investments?
+A: Strong demand signals include sustained search volume for specific styles, high social engagement on similar products, competitor sell-through velocity on comparable SKUs, and early season sales data from test markets. These are real-time, consumer-driven signals specific to the product. Weak signals include supplier forecasts, last year's sales without context, and buyer intuition without supporting data. A fast fashion retailer using multi-input demand scoring outperformed buyer judgment on 70% of SKUs.
+
+Q: How does probabilistic merchandising differ from traditional assortment planning?
+A: Traditional assortment planning treats every SKU as equally deserving of space and capital until proven otherwise, building assortments to fill plans rather than match demand probability. Probabilistic merchandising starts with demand signals, ranks products by signal strength, allocates capital proportionally, and lets shelf space follow capital allocation. One retailer using this approach gave the top 20% of SKUs by signal strength 60% of capital and space, reducing stockouts on bestsellers by 40% and excess inventory on slow movers by 35%.
+
+Q: Why do 50% of retail products fail every season and how can this be prevented?
+A: The 50% product failure rate occurs because retailers bet without discipline, treating every SKU as deserving equal commitment instead of proportional commitment based on evidence. They lack infrastructure to measure demand signal strength accurately and cannot distinguish between products with 70% sell-through probability versus 40% probability. Retailers who implement demand signal scoring systems and size bets proportionally to edge see failure rates drop significantly because capital flows toward evidence instead of assumption.
+
+Q: What is the compounding advantage of disciplined inventory bet sizing over multiple seasons?
+A: Disciplined bet sizing creates a feedback loop where capital grows season over season. Because you size losers small and winners large, total capital grows each season. You then have more capital to deploy and better demand signals from learning which signals predicted success. A global home goods retailer reduced markdowns by 18% in year one, another 15% in year two, and continued gains in year three. By year three, cumulative impact reached 40-50% markdown reduction and 30-40% inventory turn improvement.
+
+Q: How do you measure demand signal strength accurately for SKU-level investment decisions?
+A: Accurate measurement requires aggregating multiple real-time inputs into a single demand score for each SKU. Combine search trends for specific styles, social media engagement on similar products, competitor assortment moves and sell-through velocity, and early season sales data from test markets. Weight and aggregate these inputs into one score that ranks products by demand probability. High scores above 80 justify full allocation, scores between 60-80 get half allocation, scores between 40-60 get quarter allocation, and scores below 40 get minimum allocation or exclusion.
+
+Q: How does inventory capital efficiency improve without reducing total SKU count?
+A: Efficiency improves by redistributing capital from low-signal products to high-signal products rather than cutting SKUs entirely. A retailer might carry the same 500 SKUs but commit 60% of capital to the top 100 SKUs by demand score instead of spreading capital evenly. Low-signal products stay in the assortment at minimal depth to maintain category presence while high-signal products receive deeper inventory to capture demand and avoid stock
